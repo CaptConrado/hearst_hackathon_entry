@@ -1,0 +1,165 @@
+{
+  "name": "Saturday Shoe Selects",
+  "sale": "https://api.gilt.com/v1/sales/men/saturday-shoe-selects/detail.json",
+  "sale_key": "saturday-shoe-selects",
+  "store": "men",
+  "sale_url": "http://www.gilt.com/sale/men/saturday-shoe-selects?utm_medium=api&utm_campaign=Hackathon&utm_source=salesapi",
+  "image_urls": {
+    "744x281": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093504/orig.jpg",
+        "width": 744,
+        "height": 281
+      }
+    ],
+    "366x186": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093506/orig.jpg",
+        "width": 366,
+        "height": 186
+      }
+    ],
+    "185x173": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093516/orig.jpg",
+        "width": 185,
+        "height": 173
+      }
+    ],
+    "320x153": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093509/orig.jpg",
+        "width": 320,
+        "height": 153
+      }
+    ],
+    "490x250": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093505/orig.jpg",
+        "width": 490,
+        "height": 250
+      }
+    ],
+    "240x163": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093507/orig.jpg",
+        "width": 240,
+        "height": 163
+      }
+    ],
+    "300x184": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093517/orig.jpg",
+        "width": 300,
+        "height": 184
+      }
+    ],
+    "287x195": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093493/orig.jpg",
+        "width": 287,
+        "height": 195
+      }
+    ],
+    "80x85": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093511/orig.jpg",
+        "width": 80,
+        "height": 85
+      }
+    ],
+    "300x280": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093486/orig.jpg",
+        "width": 300,
+        "height": 280
+      }
+    ],
+    "100x93": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093513/orig.jpg",
+        "width": 100,
+        "height": 93
+      }
+    ],
+    "636x400": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093495/orig.jpg",
+        "width": 636,
+        "height": 400
+      }
+    ],
+    "455x172": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093496/orig.jpg",
+        "width": 455,
+        "height": 172
+      }
+    ],
+    "370x345": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093518/orig.jpg",
+        "width": 370,
+        "height": 345
+      }
+    ],
+    "620x280": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093487/orig.jpg",
+        "width": 620,
+        "height": 280
+      }
+    ],
+    "612x526": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093500/orig.jpg",
+        "width": 612,
+        "height": 526
+      }
+    ],
+    "140x130": [
+      {
+        "url": "http://cdn1.gilt.com/images/share/uploads/0000/0001/7309/173093514/orig.jpg",
+        "width": 140,
+        "height": 130
+      }
+    ]
+  },
+  "begins": "2013-02-09T17:00:00Z",
+  "ends": "2013-02-11T17:00:00Z",
+  "description": "This sale is an excellent opportunity to make sure your footwear lineup is in good form for the rest of the season. With chunky longwings from McNairy, wingtips from Grenson in a rich burgundy, oxfords from Florsheim by Duckie Brown and more, there are plenty of options to refresh (or restock) your collection.",
+  "products": [
+    "https://api.gilt.com/v1/products/145115376/detail.json",
+    "https://api.gilt.com/v1/products/145173245/detail.json",
+    "https://api.gilt.com/v1/products/137065018/detail.json",
+    "https://api.gilt.com/v1/products/141061353/detail.json",
+    "https://api.gilt.com/v1/products/132610037/detail.json",
+    "https://api.gilt.com/v1/products/140983075/detail.json",
+    "https://api.gilt.com/v1/products/160073059/detail.json",
+    "https://api.gilt.com/v1/products/160073039/detail.json",
+    "https://api.gilt.com/v1/products/160073117/detail.json",
+    "https://api.gilt.com/v1/products/156543109/detail.json",
+    "https://api.gilt.com/v1/products/148511117/detail.json",
+    "https://api.gilt.com/v1/products/156543112/detail.json",
+    "https://api.gilt.com/v1/products/133378222/detail.json",
+    "https://api.gilt.com/v1/products/149638312/detail.json",
+    "https://api.gilt.com/v1/products/146763559/detail.json",
+    "https://api.gilt.com/v1/products/160073831/detail.json",
+    "https://api.gilt.com/v1/products/133378300/detail.json",
+    "https://api.gilt.com/v1/products/160073868/detail.json",
+    "https://api.gilt.com/v1/products/160073098/detail.json",
+    "https://api.gilt.com/v1/products/156740132/detail.json",
+    "https://api.gilt.com/v1/products/160073850/detail.json",
+    "https://api.gilt.com/v1/products/160073887/detail.json",
+    "https://api.gilt.com/v1/products/156740118/detail.json",
+    "https://api.gilt.com/v1/products/133378316/detail.json",
+    "https://api.gilt.com/v1/products/147927127/detail.json",
+    "https://api.gilt.com/v1/products/160073107/detail.json",
+    "https://api.gilt.com/v1/products/141152584/detail.json",
+    "https://api.gilt.com/v1/products/147927218/detail.json",
+    "https://api.gilt.com/v1/products/147927171/detail.json",
+    "https://api.gilt.com/v1/products/125694181/detail.json",
+    "https://api.gilt.com/v1/products/141152526/detail.json"
+  ],
+  "$$hashKey": "0E9"
+}
